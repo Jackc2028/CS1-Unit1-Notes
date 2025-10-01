@@ -2,7 +2,72 @@ body{
     background: rgb(232, 214, 230);
     color: red; 
 }
-h1{
-    color: red;
-    background: aqua;
+/* Select by TAG Type */
+p{
+    color: rgb(204, 178, 229)
 }
+/* Select by ID name (unique) */
+#jack {
+    background: black;
+}
+/* Select by CLASS name (shared styles) */
+.uniform {
+    color: aqua;
+}
+
+h1 {
+    color: orchid;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 60px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+h2 {
+    color: orchid;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3 {
+    color: orchid;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 40px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h4 {
+    color: orchid;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h5 {
+    color: orchid;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h6 {
+    color: orchid;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 10px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
